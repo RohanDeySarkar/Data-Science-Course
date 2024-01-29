@@ -1,43 +1,79 @@
 # Data Science Roadmap
+
 ## Components
-- 3 Projects
-## Course Length
-- 12 Weeks
-- 2-3 Hours of Study per Day
-## Tools Used
-- Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark, GitHub,
-## Month 1 - Data Analysis
-## Week 1 - Learn Python
-EdX https://www.edx.org/course/introduction-python-data-science-2
-Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
-Week 2 - Statistics & Probability
-KhanAcademy https://www.khanacademy.org/math/statistics-probability
-Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
-EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
-Week 4 Kaggle Project #1
-Try your best at a competition of your choice from Kaggle.
-Use Kaggle Learn as a helpful guide
-Month 2 - Machine Learning
-Math of Machine Learning Cheat Sheets
-Statistics
-Probability
-Calculus
-Linear Algebra
-Week 1-2 - Algorithms & Machine Learning
-Columbia https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+2T2018/course/
-Week 3 - Deep Learning
-Part 1 and 2 of DL Book https://www.deeplearningbook.org/
-Siraj Raval https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
-Week 4 - Kaggle Project #2
-Try your best at a competition of your choice from Kaggle. Make sure to add great documentation to your github repository! Github is the new resume.
-Month 3 - Real-World Tools
-Week 1 Databases (SQL + NoSQL)
-Udacity https://www.udacity.com/course/intro-to-relational-databases--ud197
-EdX https://www.edx.org/course/introduction-to-nosql-data-solutions-2
-Week 2 Hadoop & Map Reduce + Spark
-Udacity https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
-Spark Workshop https://stanford.edu/~rezab/sparkclass/slides/itas_workshop.pdf
-Week 3 Data Storytelling
-Edx https://www.edx.org/course/analytics-storytelling-impact-1
-Week 4 Kaggle Project #3
-Try your best at a competition of your choice from Kaggle.
+Courses required for knowedge gain and projects for data science
+
+## Python
+- https://www.algoexpert.io/
+
+## Statistics
+- https://www.khanacademy.org/math/statistics-probability
+
+## Probability
+- https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data
+
+## Machine Learning
+- https://github.com/MayureshShilotri/26-Weeks-Of-Data-Science
+- https://www.youtube.com/@statquest
+  
+## Deep Learning
+- https://www.coursera.org/specializations/deep-learning
+
+## SQL
+- https://www.youtube.com/watch?v=HXV3zeQKqGY
+
+## ELK Stack
+- Elk queries (https://www.youtube.com/watch?v=e5awiVnkuEc, https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+- Logstash (https://www.elastic.co/guide/en/logstash/current/index.html)
+- Kibana (https://www.elastic.co/guide/en/kibana/current/index.html)
+
+## GIT
+
+## Spark
+- https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on
+
+## Tableau
+- https://www.udemy.com/course/tableau10
+  
+## Docker
+
+## Jenkins
+
+
+## Tensorflow
+- Image Classification (https://www.tensorflow.org/tutorials/keras/classification)
+- Text Classification (https://www.tensorflow.org/tutorials/keras/text_classification)
+Note - Other notebooks (AI algos in https://www.tensorflow.org/tutorials worth checking) -> GAN, Pix2Pix, CycleGAN, DeepDream etc..
+
+## Kaggle (Projects)
+- Time Series
+  - https://www.kaggle.com/code/rohandeysarkar/future-sales-eda-time-series
+- Image Classification
+  - https://www.kaggle.com/code/rohandeysarkar/ultimate-image-classification-guide-2020
+  - 
+- Text Analysis 
+  - https://www.kaggle.com/code/rohandeysarkar/nlp-tricks-on-customer-support-data-twitter
+  - https://www.kaggle.com/code/rohandeysarkar/hashtag-suggestions-nlp-webscraping
+  - https://www.kaggle.com/code/rohandeysarkar/google-quest-eda-feature-engineering
+- Data Analysis 
+  - https://www.kaggle.com/code/rohandeysarkar/factors-affecting-house-prices-full-eda
+  - https://www.kaggle.com/code/rohandeysarkar/data-science-bowl-2019-eda-feature-engineering
+  - https://www.kaggle.com/code/rohandeysarkar/mercedes-benz-eda-feature-engineering
+  - https://www.kaggle.com/code/rohandeysarkar/zillow-prize-eda-feature-engineering
+  - https://www.kaggle.com/code/rohandeysarkar/osic-pulmonary-fibrosis-progression-eda
+
+ ## Interview Questions
+ - https://www.edureka.co/blog/interview-questions/python-interview-questions/
+ 
+ - https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a
+ - https://www.mygreatlearning.com/blog/machine-learning-interview-questions
+ - https://www.springboard.com/blog/data-science/data-science-interview-questions/
+   
+ - https://analyticsindiamag.com/40-interview-questions-on-statistics-for-data-scientists/
+ - https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists
+ - https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6
+ - https://www.javatpoint.com/probability-mcq
+
+ - https://www.interviewbit.com/javascript-interview-questions/
+   
+ - https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
