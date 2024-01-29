@@ -1,0 +1,192 @@
+*DSA (algoexpert)
+
+*STATISTICS (khan academy, 26 weeks, o'reilly, datacamp)
+mean, median, mode, variance, pop variance, sd, percentile
+iqr
+outlier
+conf interval, z-score
+t-dist, dof
+p-val, hypothesis, type 1 2 err
+covariance, correlation/r-square, residual, 
+pmf, cdf, pdf
+normality, 
+uniform/gaussian/normal, standard normal, exponential, binomial, poisson distribution
+non-gaussian -> has skewness
+interpolation, extrapolation
+skewness
+central limit theo
+standard, squared margin of err
+maximum likelihood
+monte carlo
+
+*PROBABILITY (khan academy, coursera)
+conditional, bayes
+
+*PLOTS
+cat vs cat -> groupby barplot, catplot(count)
+num vs cat -> box, swarm
+num vs num -> joint, heatmap, pair, scatter, 
+single col checks -> countplot (change hue granularity), barplot, box, distplot (bins)
+t-sne
+
+*ML ALGOS 
+linear reg assumptions, cost func, polynomial reg, non linear data
+l1 l2 regularization
+cost functions (ols, log odd, log loss)
+cart(not fixed only to binary)
+gini index, entropy ig, chi-square, pruning, bootstraping
+random forest, bootstraping
+ensemble
+adaboost vs gradientboost
+naive bayes, gaussian naive bayes 
+knn
+clustering, hierarchy, dendogram
+overfitting, underfitting
+imputer
+remove skewness
+class imbalance
+normlization, scaling, standardization
+onehot, label encoding
+cv, gridsearch
+confusion matrix, auc roc 
+rmse
+
+*NLP
+tokenization, stop word
+stemming, lemmatization(wordnet)
+wordcloud
+tfidf, count vectorizer
+
+*TIME SERIES
+white noise
+trend, seasonality, seasonal_decompose -> show trend, seasonality, residual
+adf test(2nd order differencing) -> checks p-val & detrmine stationary/non-stationary
+log to reduce p val [log -> normal vals after predicting (exponential -> e^(x-1))]
+plot acf/pacf 
+[d (no. of order differencing, nonstaionary -> stationary (1st order generally))]
+acf/pacf -> p(auto regresive/corr), q(moving avg/rolling mean) vals at spikes (1, 1, 1)
+arima , ((AR) model predicts future behavior based on past(synonym lagged) behavior)
+stationary (problem of multi-collinearity if the data is non-stationary.)
+
+*DL AlGOS
+perceptron
+activation funcs
+gradient descent
+dropout (regularization)
+data augmentation
+batch, mini-batch
+optimizers (gradient descent with momentum -> rmsprop -> adam)
+batch normalization
+covariate shift
+softmax
+convolution (feature sharing), padding, stride, pooling, fully connected
+sequence data
+rnn types (remember across data)
+vanishing gradient
+gru, lstm (memory cell, update, forget), brnn, attention
+word embedding
+cosine similarity
+
+*CODE
+pd =>
+groupby, unique, nunique, loc, iloc, info, sort_values, value_counts, shape, describe
+concat, join, merge, is_null, todate_time, dtypes, columns, drop_duplicates
+rename, drop, 
+corr, heatmap
+np.nan
+
+webscraping, selenium
+
+*SQL
+crud
+relational vs non relational db
+create, insert, drop, delete
+update, where
+order by, limit, offset
+distinct, count, sum, avg, group by
+joins
+prim, foreign key
+inner outer join
+
+*SNOWFLAKE
+basic idea
+
+*SPARK
+spark context, rdd(fault tolerance)
+flatmap
+spark stream
+mllib
+spark sql, hive context
+hdf5
+
+*TABLEAU
+create bins, calculated field, parameter
+change granularity
+dual axis
+storytelling
+map plot[lat,long -> state/country -> cols(sales, age ...)]
+join vs blend
+problems in left/right join (check more than 1 cond)
+
+*ELK
+logstash input, filter, output
+elasticsearch queries, aggs
+kibana
+vega basics
+[run elk bin -> elasticsearch, kibana (local host)]
+
+*JENKINS
+
+*DOCKER
+cmds, docker file
+
+*GIT
+cmds
+
+*SYSTEM DESIGN
+
+--------------------------------------------------------------------------------------------
+*REACT
+stateless, dom elements useRef, redux, inline style
+onClick, onSubmit -> forms, onChange
+useEffect, hooks
+routing, link, lazy loading
+spread operator
+react vs next
+async call, redux thunk
+fetch/axios
+apollo client gql (useQuery, useMutation)
+react native
+typescript
+
+
+*NODE
+post, get, put, delete, req.body req.params
+graphql (typedefs, resolvers, query, mutation)
+mikroorm
+sql use
+mongodb, pusher
+
+*LANGUAGE BASICS
+const(block scoped), let(block scoped -> update), var(global -> update, re-declare)
+primitive, non primitive data types | pass by value (alocate new memory space), reference 
+diff datatypes, hoisting, == vs === , coercion
+currying, closures
+callbacks
+Hoisting is the default behavior of moving all the declarations at the top of the scope
+before code execution.
+
+list vs tuple
+private heap space
+pep8, namespace
+lambda, map, filter, reduce, class vs func, init -> constructor -> initialization
+range vs xrange, picking, unpicking
+inheritance, polymorphism, encapsulation, abstraction
+
+
+
+
+
+
+
+
