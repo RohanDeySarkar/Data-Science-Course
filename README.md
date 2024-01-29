@@ -64,16 +64,21 @@ Note - Other notebooks (AI algos in https://www.tensorflow.org/tutorials worth c
 
  ## Interview Questions
  - https://www.edureka.co/blog/interview-questions/python-interview-questions/
+   
  
  - https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a
  - https://www.mygreatlearning.com/blog/machine-learning-interview-questions
  - https://www.springboard.com/blog/data-science/data-science-interview-questions/
    
+   
  - https://analyticsindiamag.com/40-interview-questions-on-statistics-for-data-scientists/
  - https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists
  - https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6
  - https://www.javatpoint.com/probability-mcq
+   
 
  - https://www.interviewbit.com/javascript-interview-questions/
    
+   
  - https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
+   
