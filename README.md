@@ -8,6 +8,7 @@ Courses required for knowedge gain and projects for data science
 
 ## Statistics
 - https://www.khanacademy.org/math/statistics-probability
+- https://app.datacamp.com/learn/career-tracks/data-scientist-with-python
 
 ## Probability
 - https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data
@@ -50,11 +51,13 @@ Note - Other notebooks (AI algos in https://www.tensorflow.org/tutorials worth c
   - https://www.kaggle.com/code/rohandeysarkar/future-sales-eda-time-series
 - Image Classification
   - https://www.kaggle.com/code/rohandeysarkar/ultimate-image-classification-guide-2020
-  - 
+    
 - Text Analysis 
   - https://www.kaggle.com/code/rohandeysarkar/nlp-tricks-on-customer-support-data-twitter
   - https://www.kaggle.com/code/rohandeysarkar/hashtag-suggestions-nlp-webscraping
   - https://www.kaggle.com/code/rohandeysarkar/google-quest-eda-feature-engineering
+  - https://github.com/RohanDeySarkar/Kaggle-challenges/blob/master/text_classification_rnn_.ipynb
+    
 - Data Analysis 
   - https://www.kaggle.com/code/rohandeysarkar/factors-affecting-house-prices-full-eda
   - https://www.kaggle.com/code/rohandeysarkar/data-science-bowl-2019-eda-feature-engineering
