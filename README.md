@@ -1,7 +1,6 @@
 # Data Science Roadmap
 
-## Components
-Courses required for knowedge gain and projects for data science
+### Components required for knowedge gain and projects for data science
 
 ## Python
 - https://www.algoexpert.io/
