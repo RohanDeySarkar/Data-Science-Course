@@ -145,6 +145,12 @@ cmds
 
 *SYSTEM DESIGN
 
+*Computer Networks
+
+*DBMS
+
+*OS
+
 --------------------------------------------------------------------------------------------
 *REACT
 stateless, dom elements useRef, redux, inline style
