@@ -2,6 +2,9 @@
 
 ### Components required for knowedge gain and projects for data science
 
+## BONUS
+https://github.com/iNeuronai/interview-question-data-science-
+
 ## Python
 - https://www.algoexpert.io/
 
