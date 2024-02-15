@@ -2,9 +2,6 @@
 
 ### Components required for knowedge gain and projects for data science
 
-## BONUS
-https://github.com/iNeuronai/interview-question-data-science-
-
 ## Python
 - https://www.algoexpert.io/
 
@@ -66,8 +63,11 @@ Note - Other notebooks (AI algos in https://www.tensorflow.org/tutorials worth c
   - https://www.kaggle.com/code/rohandeysarkar/mercedes-benz-eda-feature-engineering
   - https://www.kaggle.com/code/rohandeysarkar/zillow-prize-eda-feature-engineering
   - https://www.kaggle.com/code/rohandeysarkar/osic-pulmonary-fibrosis-progression-eda
+ 
+## BONUS
+https://github.com/iNeuronai/interview-question-data-science-
 
- ## Interview Questions
+## Interview Questions
  - https://www.edureka.co/blog/interview-questions/python-interview-questions/
    
  
