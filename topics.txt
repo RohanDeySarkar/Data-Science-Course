@@ -142,6 +142,7 @@ cmds, docker file
 
 *GIT
 cmds
+ssh
 
 *SYSTEM DESIGN
 
