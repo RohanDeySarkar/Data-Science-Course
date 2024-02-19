@@ -50,6 +50,7 @@ onehot, label encoding
 cv, gridsearch
 confusion matrix, auc roc 
 rmse
+warpper, filter methods
 
 *NLP
 tokenization, stop word
