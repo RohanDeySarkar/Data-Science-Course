@@ -41,7 +41,7 @@
 
 
 ## Tensorflow
-- Image Classification (https://www.tensorflow.org/tutorials/keras/classification)
+- Image Classification (https://www.tensorflow.org/tutorials/keras/classification, https://www.tensorflow.org/tutorials/images/classification)
 - Text Classification (https://www.tensorflow.org/tutorials/keras/text_classification)
 Note - Other notebooks (AI algos in https://www.tensorflow.org/tutorials worth checking) -> GAN, Pix2Pix, CycleGAN, DeepDream etc..
 
