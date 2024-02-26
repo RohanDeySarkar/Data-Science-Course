@@ -94,9 +94,30 @@ groupby, unique, nunique, loc, iloc, info, sort_values, value_counts, shape, des
 concat, join, merge, is_null, todate_time, dtypes, columns, drop_duplicates
 rename, drop, 
 corr, heatmap
+
+numpy =>
 np.nan
 
-webscraping, selenium
+tensorflow =>
+Sequential, Rescaling, Conv2D, MaxPooling2D, Flatten, Dense
+
+cv2 => 
+imread, imwrite, resize, cvtColor, rotate, Canny, dilate, erode, GaussianBlur, threshold
+findContours, boundingRect, drawContours
+
+PIL library -> image preprocess
+
+selenium => 
+bot = webdriver.Firefox(executable_path=GeckoDriverManager().install()),
+.get('https://www.instagram.com/accounts/login/?source=auth_switcher')
+.find_element_by_name, .find_elements_by_class_name, .clear, .send_keys, .execute_script, 
+
+beautifulsoup =>
+r = requests.get(url)
+html_doc = r.text
+soup = BeautifulSoup(html_doc, "html5lib")
+soup.find(lambda tag: tag.name == 'tag' and tag.has_attr('id') and tag['id'] == "sample_text")
+
 
 *SQL
 crud
