@@ -72,7 +72,7 @@ stationary (problem of multi-collinearity if the data is non-stationary.)
 *DL AlGOS
 perceptron
 activation funcs
-gradient descent
+gradient descent, stochastic gd, batch gd
 dropout (regularization)
 data augmentation
 batch, mini-batch
