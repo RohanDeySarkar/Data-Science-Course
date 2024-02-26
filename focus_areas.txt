@@ -1,0 +1,25 @@
+Data Analyst / ML Roles
+
+dsa (imp)
+
+statistics (imp)
+probability (imp)
+
+
+ml (imp)
+dl
+data pre-processing, visualization, eda (imp)
+projects (imp)
+
+elk (imp)
+sql (imp)
+
+tableau (imp)
+
+spark (imp)
+hadoop
+
+agile
+jenkins
+docker
+git
