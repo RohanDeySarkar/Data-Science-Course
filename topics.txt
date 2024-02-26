@@ -88,6 +88,9 @@ gru, lstm (memory cell, update, forget), brnn, attention
 word embedding
 cosine similarity
 
+*FLASK
+
+
 *CODE
 pd =>
 groupby, unique, nunique, loc, iloc, info, sort_values, value_counts, shape, describe
