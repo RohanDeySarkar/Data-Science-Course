@@ -8,6 +8,7 @@ conf interval, z-score
 t-dist, dof
 p-val, hypothesis, type 1 2 err
 covariance, correlation/r-square, residual, 
+vif,  
 pmf, cdf, pdf
 normality, 
 uniform/gaussian/normal, standard normal, exponential, binomial, poisson distribution
@@ -31,6 +32,7 @@ t-sne
 
 *ML ALGOS 
 linear reg assumptions, cost func, polynomial reg, non linear data
+simpson paradox
 l1 l2 regularization
 cost functions (ols, log odd, log loss)
 cart(not fixed only to binary)
