@@ -42,7 +42,9 @@ ensemble
 adaboost vs gradientboost
 naive bayes, gaussian naive bayes 
 knn
+Jaccard score
 clustering, hierarchy, dendogram
+euclidean distance
 overfitting, underfitting
 imputer
 remove skewness
