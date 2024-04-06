@@ -15,6 +15,10 @@
 ## Machine Learning
 - https://github.com/MayureshShilotri/26-Weeks-Of-Data-Science
 - https://www.youtube.com/@statquest
+- https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI
+
+## MLOps
+- https://www.youtube.com/watch?v=NgWujOrCZFo&list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK
   
 ## Deep Learning
 - https://www.coursera.org/specializations/deep-learning
