@@ -2,8 +2,14 @@
 
 ### Components required for knowedge gain and projects for data science
 
-## Python
-- https://www.algoexpert.io/
+## Python (DSA)
+- https://www.algoexpert.io/content#algoexpert
+
+## System Design
+- https://www.algoexpert.io/systems/index
+
+## Infrastructure
+- https://www.algoexpert.io/infrastructure/index
 
 ## Statistics
 - https://www.khanacademy.org/math/statistics-probability
