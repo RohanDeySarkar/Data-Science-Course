@@ -1,5 +1,7 @@
 *DSA (algoexpert)
 
+*OOPs concepts
+
 *STATISTICS (khan academy, 26 weeks, o'reilly, datacamp)
 mean, median, mode, variance, pop variance, sd, percentile
 iqr
