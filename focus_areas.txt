@@ -1,13 +1,15 @@
-Data Analyst / ML Roles
-
-dsa (imp)
+ Data Science / Data Analyst / ML Roles
 
 statistics (imp)
-probability (imp)
+probability (imp) 
 
+dsa (imp)
+sys design
 
 ml (imp)
-dl
+mlops
+genai (basics)
+dl (imp)
 data pre-processing, visualization, eda (imp)
 projects (imp)
 
@@ -16,7 +18,7 @@ sql (imp)
 
 tableau (imp)
 
-spark (imp)
+spark  / pyspark (imp)
 hadoop
 
 agile
