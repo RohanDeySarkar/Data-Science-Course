@@ -1,5 +1,7 @@
 *DSA (algoexpert)
 
+*SYS DESIGN (algoexpert)
+
 *OOPs concepts
 
 *STATISTICS (khan academy, 26 weeks, o'reilly, datacamp)
@@ -100,7 +102,6 @@ cosine similarity
 
 *FLASK
 
-
 *CODE
 pd =>
 groupby, unique, nunique, loc, iloc, info, sort_values, value_counts, shape, describe
@@ -179,17 +180,8 @@ cmds, docker file
 cmds
 ssh
 
-*SYSTEM DESIGN
-
 *INFRA DESIGN
 
-*Computer Networks
-
-*DBMS
-
-*OS
-
---------------------------------------------------------------------------------------------
 *REACT
 stateless, dom elements useRef, redux, inline style
 onClick, onSubmit -> forms, onChange
