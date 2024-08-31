@@ -79,6 +79,8 @@ https://github.com/iNeuronai/interview-question-data-science-
 
 ## Interview Questions
  - https://www.edureka.co/blog/interview-questions/python-interview-questions/
+
+ - https://www.interviewbit.com/system-design-interview-questions/
    
  
  - https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a
