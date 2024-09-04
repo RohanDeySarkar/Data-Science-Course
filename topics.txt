@@ -4,6 +4,13 @@
 client, server, port, dns, ip, tcp, http, ip packet, latency, throughput
 availability, redundancy, sla/slo, cache hit/stale/miss, eviction ploicy (lru, fifo, lfu), cdn (clouflare, google cloud cdn)
 proxy, reverse proxy, loadbalancer (nginx/reverse proxy), round robin (performance based/ip based), hot spot,
+hashing (consistent/rendezvous), SHA, sql/nosql, ACID, db index, key-value store (etcd, zookeeper, redis)
+storage types (blob -> gcs/s3, time series -> influxdb/prometheus, graph -> neo47, spatial -> quadtree)
+replication. sharding, leader election, paxos/raft, peer-to-peer (kraken), gossip protocol, polling, streaming
+rate limiting, dos/ddos attack (redis), pub/sub pattern (topic/msg) (apache kafka), idempotent op
+mapreduce, distributed file system, google file system(GFS)/Hadoop(HDFS)
+man-in-the-middle attack, symmetric(1key)/asymmetric(2keys) encryp, aes, tls, ssl certificate
+pagination, access control list(ACL)/CRUD api
 
 *OOPs concepts
 
