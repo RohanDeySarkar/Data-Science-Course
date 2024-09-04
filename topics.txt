@@ -1,6 +1,9 @@
 *DSA (algoexpert)
 
-*SYS DESIGN (algoexpert)
+*SYSTEM DESIGN (algoexpert)
+client, server, port, dns, ip, tcp, http, ip packet, latency, throughput
+availability, redundancy, sla/slo, cache hit/stale/miss, eviction ploicy (lru, fifo, lfu), cdn (clouflare, google cloud cdn)
+proxy, reverse proxy, loadbalancer (nginx/reverse proxy), round robin (performance based/ip based), hot spot,
 
 *OOPs concepts
 
