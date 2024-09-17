@@ -1,0 +1,19 @@
+dsa
+sys design
+oops
+python
+js
+react/next
+node
+data analysis/viz
+ml
+stat
+flask
+sql/elk
+jenkins
+docker
+git
+main project 
+company experience work
+
+
