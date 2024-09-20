@@ -11,6 +11,7 @@ rate limiting, dos/ddos attack (redis), pub/sub pattern (topic/msg) (apache kafk
 mapreduce, distributed file system, google file system(GFS)/Hadoop(HDFS)
 man-in-the-middle attack, symmetric(1key)/asymmetric(2keys) encryp, aes, tls, ssl certificate
 pagination, access control list(ACL)/CRUD api
+horizontal vs vertical scaling
 
 *OOPs concepts
 
