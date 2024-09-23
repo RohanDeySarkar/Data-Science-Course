@@ -1,5 +1,6 @@
 dsa
 sys design
+machine coding
 oops
 python
 js
@@ -9,10 +10,11 @@ data analysis/viz
 ml
 stat
 flask
-sql/elk
+sql/elk/aws cloud db
 jenkins
 docker
 git
+design pattern
 main project 
 company experience work
 
