@@ -73,6 +73,9 @@ Note - Other notebooks (AI algos in https://www.tensorflow.org/tutorials worth c
   - https://www.kaggle.com/code/rohandeysarkar/mercedes-benz-eda-feature-engineering
   - https://www.kaggle.com/code/rohandeysarkar/zillow-prize-eda-feature-engineering
   - https://www.kaggle.com/code/rohandeysarkar/osic-pulmonary-fibrosis-progression-eda
+
+## Full Stack
+- https://www.youtube.com/@SonnySangha/videos
  
 ## BONUS
 https://github.com/iNeuronai/interview-question-data-science-
