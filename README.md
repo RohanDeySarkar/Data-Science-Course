@@ -1,4 +1,4 @@
-# Data Science Roadmap
+# Path to Hokage
 
 ### Components required for knowedge gain and projects for data science
 
