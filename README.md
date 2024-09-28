@@ -1,6 +1,6 @@
 # Path to Hokage
 
-### Components required for knowedge gain and projects for data science
+### All the jutsu you will need
 
 ## Python (DSA)
 - https://www.algoexpert.io/content#algoexpert
