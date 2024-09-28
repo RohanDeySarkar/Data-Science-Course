@@ -229,3 +229,65 @@ pep8, namespace
 lambda, map, filter, reduce, class vs func, init -> constructor -> initialization
 range vs xrange, picking, unpicking
 inheritance, polymorphism, encapsulation, abstraction
+------------------------------------------------------------------------------------------------------------------------------
+
+
+var, let, const
+call(), apply(), bind()
+this
+== vs ===
+Nan
+
+hoisting, coercion
+primitive, non primitive, pass by val/ref
+Immediately Invoked Function
+Higher Order Functions
+currying
+global/local/function/block scope, Scope Chain
+Closures 
+
+
+------------------------------------------------------------------------------------
+SQL
+
+use db_name
+create table table_name(
+ col_name type
+primary key(col_name)
+)
+select * from table_name
+insert into table_name(col1,...) values(val1,...)
+describe table_name
+drop table table_name
+alter table table_name add new_col
+alter table table_name drop column col_name
+
+update table_name 
+set 
+where
+
+delete from
+where
+
+select col_name as new_name 
+from table_name
+where in and
+order by
+limit
+
+select distinct, count(), sum(), avg()
+group by
+where like '%'
+
+union
+join
+
+
+
+
+
+
+
+
+
+
