@@ -80,11 +80,32 @@ Note - Other notebooks (AI algos in https://www.tensorflow.org/tutorials worth c
 ## BONUS
 https://github.com/iNeuronai/interview-question-data-science-
 
-## Interview Questions
+## Interview 
+ - https://www.interviewbit.com/python-interview-questions/ 
  - https://www.edureka.co/blog/interview-questions/python-interview-questions/
  - https://www.geeksforgeeks.org/python-interview-questions
+ - https://github.com/RohanDeySarkar/OOP-Python/blob/master
+ - https://medium.com/@engr.tanveersultan53/map-filter-reduce-and-lambda-function-in-python-3822916f3de8
+ - https://www.datacamp.com/tutorial/encapsulation-in-python-object-oriented-programming
+
+ - https://www.interviewbit.com/javascript-interview-questions/
+ - https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
+ - https://www.interviewbit.com/react-interview-questions/
+ - https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
 
  - https://www.interviewbit.com/system-design-interview-questions/
+
+ - https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6
+ - https://leetcode.com/studyplan/top-sql-50/
+ - https://www.datacamp.com/blog/top-sql-interview-questions-and-answers-for-beginners-and-intermediate-practitioners
+ - https://www.interviewbit.com/sql-interview-questions/
+
+ - https://www.interviewbit.com/docker-interview-questions/
+
+
+
+
+-YET TO DECIDEEEEEEEE>>>>>>>
  
  - https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a
  - https://www.mygreatlearning.com/blog/machine-learning-interview-questions
@@ -93,12 +114,10 @@ https://github.com/iNeuronai/interview-question-data-science-
    
  - https://analyticsindiamag.com/40-interview-questions-on-statistics-for-data-scientists/
  - https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists
- - https://towardsdatascience.com/5-common-sql-interview-problems-for-data-scientists-1bfa02d8bae6
+
  - https://www.javatpoint.com/probability-mcq
    
-
- - https://www.interviewbit.com/javascript-interview-questions/
    
    
- - https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
+ 
    
