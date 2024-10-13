@@ -14,6 +14,21 @@ pagination, access control list(ACL)/CRUD api
 horizontal vs vertical scaling
 
 *OOPs concepts
+function (default, positional arguments)
+class
+attributes (variables)
+methods (in class func)
+object
+constructor
+class/instance variable, instance method
+static method
+accesor, mutator
+decorator, @classmethod
+generator, yield
+inner/outer class
+inheritance
+ploymorphism (operator overloading/overriding, method overloading/overriding)
+abstraction
 
 *STATISTICS (khan academy, 26 weeks, o'reilly, datacamp)
 mean, median, mode, variance, pop variance, sd, percentile
