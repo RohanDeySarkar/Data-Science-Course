@@ -201,6 +201,9 @@ vega basics
 
 *DOCKER
 cmds, docker file
+docker client/host/registry
+depends_on
+Virtualization vs Containerization
 
 *GIT
 cmds
@@ -220,7 +223,9 @@ fetch/axios
 apollo client gql (useQuery, useMutation)
 react native
 typescript
-
+server-side rendering
+virtual DOM 
+reusable components
 
 *NODE
 post, get, put, delete, req.body req.params
@@ -244,6 +249,36 @@ pep8, namespace
 lambda, map, filter, reduce, class vs func, init -> constructor -> initialization
 range vs xrange, picking, unpicking
 inheritance, polymorphism, encapsulation, abstraction
+int, str, float (size in memory)
+list, dic
+function (default, positional arguments)
+class
+attributes (variables)
+methods (in class func)
+object
+constructor
+class/instance variable, instance method
+static method
+accesor, mutator
+decorator, @classmethod
+generator, yield
+inner/outer class
+inheritance
+ploymorphism (operator overloading/overriding, method overloading/overriding)
+abstraction
+apply
+lambda
+max
+append
+extend
+pop
+range
+len
+join
+find
+split
+ord
+dir
 ------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -259,11 +294,18 @@ Immediately Invoked Function
 Higher Order Functions
 currying
 global/local/function/block scope, Scope Chain
-Closures 
-
+closures 
+throttling, debouncing
+map, reduce
+promise
+async function
 
 ------------------------------------------------------------------------------------
 SQL
+
+sql dialects, primary/foreign key, index, SQL subsets
+alias, clause, aggregate/scalar functions
+Entities and Relationships
 
 use db_name
 create table table_name(
