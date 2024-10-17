@@ -91,6 +91,8 @@ tokenization, stop word
 stemming, lemmatization(wordnet)
 wordcloud
 tfidf, count vectorizer
+one hot encoder, label encoder
+bag of words
 
 *TIME SERIES
 white noise
