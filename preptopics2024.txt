@@ -1,20 +1,24 @@
-dsa
-sys design
-machine coding
+ROUND 0 ->
 oops
 python
 js
+ROUND 1 ->
+dsa
+ROUND 2 ->
+sys design
+machine coding
+ROUND 3 ->
 react/next
-node
-data analysis/viz
+flask/requests/api's
+pandas/nlp/kibana
 ml
 stat
-flask
-sql/elk/aws cloud db
+ROUND 4 ->
+sql/elk/(aws cloud db)
 jenkins
 docker
 git
-design pattern
+(design pattern)
 main project 
 company experience work
 
