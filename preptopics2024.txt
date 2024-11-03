@@ -9,8 +9,10 @@ sys design
 machine coding
 ROUND 3 ->
 react/next
-flask/requests/api's
+graphql
+flask/requests/api's/beautifulsoup
 pandas/nlp/kibana
+sklearn/tensorflow
 ml
 stat
 ROUND 4 ->
