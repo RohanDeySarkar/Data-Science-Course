@@ -1,27 +1,34 @@
+**company experience work**
+**main project **
+
 ROUND 0 ->
 oops
 python
 js
+
 ROUND 1 ->
 dsa
+
 ROUND 2 ->
 sys design
-machine coding
+(machine coding)
+
 ROUND 3 ->
 react/next
 graphql
 flask/requests/api's/beautifulsoup
 pandas/nlp/kibana
 sklearn/tensorflow
-ml
+ai/ml
 stat
+
 ROUND 4 ->
-sql/elk/(aws cloud db)
+sql/elk/firebase/mongodb
 jenkins
 docker
 git
+aws services (ec2/lamda/s3/rdb)
 (design pattern)
-main project 
-company experience work
+
 
 
