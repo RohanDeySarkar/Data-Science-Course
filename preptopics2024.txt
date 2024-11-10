@@ -27,7 +27,7 @@ sql/elk/firebase/mongodb
 jenkins
 docker
 git
-aws services (ec2/lamda/s3/rdb)
+aws services (ec2/lamda/s3/rdb) / kafka (partition/replication/ordering) | aws alternative -> sqs/sns [check diff]
 (design pattern)
 
 
