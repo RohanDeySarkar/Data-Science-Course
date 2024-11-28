@@ -12,7 +12,7 @@ mapreduce, distributed file system, google file system(GFS)/Hadoop(HDFS)
 man-in-the-middle attack, symmetric(1key)/asymmetric(2keys) encryp, aes, tls, ssl certificate
 pagination, access control list(ACL)/CRUD api
 horizontal vs vertical scaling
-thrashing, 	Pull vs. Push, OAuth, 	Microservices vs. Monoliths,  Distributed Caching
+thrashing, Pull vs. Push, OAuth,	Microservices vs. Monoliths, Distributed Caching
 
 *OOPs concepts
 function (default, positional arguments)
