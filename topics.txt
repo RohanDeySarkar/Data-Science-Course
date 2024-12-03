@@ -13,6 +13,7 @@ man-in-the-middle attack, symmetric(1key)/asymmetric(2keys) encryp, aes, tls, ss
 pagination, access control list(ACL)/CRUD api
 horizontal vs vertical scaling
 thrashing, Pull vs. Push, OAuth,	Microservices vs. Monoliths, Distributed Caching
+blob splitters, Content-Addressable Storage
 
 *OOPs concepts
 function (default, positional arguments)
