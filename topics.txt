@@ -251,6 +251,7 @@ interpreted vs compiled language
 static vs dynamic typed language
 
 list vs tuple
+list comprehension (one liner)
 private heap space
 pep8, namespace
 lambda, map, filter, reduce, class vs func, init -> constructor -> initialization
