@@ -247,6 +247,9 @@ callbacks
 Hoisting is the default behavior of moving all the declarations at the top of the scope
 before code execution.
 
+interpreted vs compiled language
+static vs dynamic typed language
+
 list vs tuple
 private heap space
 pep8, namespace
