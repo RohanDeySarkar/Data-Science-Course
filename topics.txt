@@ -150,7 +150,11 @@ brainstorm ideas for -> provide context ex- peanut cookies shop
 help me rewrite this-> give text
 team rating based on feedback
 
-*FLASK
+*AWS Services
+s3 -> create bucket, boto3 create bucket, upload/download file
+
+
+*FLASK / FastAPI
 
 *CODE
 pd =>
