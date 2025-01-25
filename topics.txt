@@ -127,8 +127,28 @@ word embedding
 cosine similarity
 
 *MLOPS
+zenml, mlflow(to deploy model) check how to deploy !! 
+steps => run pipeline -> train pipeline (ingest_df , clean_df, train model, evaluate model)
+folder structure(run_pipeline.py, pipelines(train_pipeline.py, deploy_pipeline.py), steps(ingest/clean/train/evaluate.py), src(helper funcs for clean/train))
+Steps: Individual units of work within a pipeline.
+Monitor pipeline executions.
+View pipeline logs and artifacts.
+Track experiment results.
+Manage your ML models.
+Artifacts: Intermediate or final outputs of pipeline steps (e.g., data, models).   
+Pipelines: A sequence of steps that define the overall ML workflow.
+Stack: A collection of components (e.g., artifact store, orchestrator) that define the infrastructure for your ML pipelines.
+Caching: ZenML automatically caches the results of pipeline steps, improving efficiency by reusing previously computed results
 
 *GENAI
+llm, rag
+bias, hallucination
+prompts =>
+sumarize this (limit words) -> video url or document conversation, 
+proofread the following text, for spelling and grammatical errors and rewrite-> provide text
+brainstorm ideas for -> provide context ex- peanut cookies shop
+help me rewrite this-> give text
+team rating based on feedback
 
 *FLASK
 
@@ -202,6 +222,9 @@ vega basics
 [run elk bin -> elasticsearch, kibana (local host)]
 
 *JENKINS
+jenkins file, stages
+create job, schedule, cron job
+upstream/downstream jobs
 
 *DOCKER
 cmds, docker file
