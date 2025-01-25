@@ -151,8 +151,15 @@ help me rewrite this-> give text
 team rating based on feedback
 
 *AWS Services
-s3 -> create bucket, boto3 create bucket, upload/download file
-
+s3 -> create bucket, boto3 create bucket, upload/download file (connect with bucket using bucket name)
+ec2 -> launch instance, create key pair, who can access ec2 instance (set ip), login through ssh using ssh key, boto3 check instances running, monitor instances (connect with instance using instance id)
+sns -> pub/sub, boto3 code
+lambda -> upload functions (api's) that will be used by a lot of users, need to balance load, store logs, lambda does it all
+kinesis -> wait until data become eg:5mb then push data to db
+iam -> IAM controls who has access to your AWS resources and what they can do with them. This is crucial for security and compliance (admin)
+rds -> relational db (sql)
+influxdb -> time series db like proetheus
+dynamodb -> no sql db
 
 *FLASK / FastAPI
 
