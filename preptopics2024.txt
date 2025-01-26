@@ -14,20 +14,21 @@ sys design
 (machine coding)
 
 ROUND 3 ->
-react/next
-graphql
-flask/requests/api's/beautifulsoup
+flask/requests/api's/beautifulsoup/fastapi
+zenml
 pandas/nlp/kibana
 sklearn/tensorflow
 ai/ml
+aws 
 stat
+react/next
+graphql
 
 ROUND 4 ->
 sql/elk/firebase/mongodb
 jenkins
 docker
 git
-aws services (ec2/lamda/s3/rdb) / kafka (partition/replication/ordering) | aws alternative -> sqs/sns [check diff]
 (design pattern)
 
 
