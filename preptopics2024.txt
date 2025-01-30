@@ -1,10 +1,9 @@
-**company experience work**
-**main project **
+resume (skills + company work)
 
 ROUND 0 ->
 oops
 python
-js
+js/ts
 
 ROUND 1 ->
 dsa
@@ -25,10 +24,15 @@ react/next
 graphql
 
 ROUND 4 ->
-sql/elk/firebase/mongodb
+sql
+elk
+firebase/mongodb/prometheus
+grafana
 jenkins
 docker
 git
+kafka
+tableau
 (design pattern)
 
 
