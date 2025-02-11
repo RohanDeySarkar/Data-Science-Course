@@ -87,6 +87,7 @@ cv, gridsearch
 confusion matrix, auc roc 
 rmse
 warpper, filter methods
+types of variables (categorical (nominial, ordinal), numerical(continuos, discrete))
 
 *NLP
 tokenization, stop word
