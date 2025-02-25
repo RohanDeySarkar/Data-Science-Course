@@ -10,6 +10,7 @@ dsa
 
 ROUND 2 ->
 sys design
+design pattern
 (machine coding)
 
 ROUND 3 ->
@@ -33,7 +34,7 @@ docker
 git
 kafka
 tableau
-(design pattern)
+
 
 
 
