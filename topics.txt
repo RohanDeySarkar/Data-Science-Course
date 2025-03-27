@@ -1,7 +1,7 @@
 *DSA (algoexpert)
 
 *SYSTEM DESIGN (algoexpert)
-client, server, port, dns, ip, tcp, http, ip packet, latency, throughput
+client, server, port, dns, ip, tcp, http, ip packet, disk(non-volatile storage), latency, throughput
 availability, redundancy, sla/slo, cache hit/stale/miss, eviction policy (lru, fifo, lfu), cdn (clouflare, google cloud cdn)
 proxy, reverse proxy, loadbalancer (nginx/reverse proxy), round robin (performance based/ip based), hot spot,
 hashing (consistent/rendezvous), SHA, sql/nosql, ACID, db index, strong/eventual consistency, key-value store (etcd, zookeeper, redis)
