@@ -14,6 +14,7 @@ pagination, access control list(ACL)/CRUD api
 horizontal vs vertical scaling
 thrashing, Pull vs. Push, OAuth,	Microservices vs. Monoliths, Distributed Caching
 blob splitters, Content-Addressable Storage
+CAP Theorem, event drivesn system, auths
 
 *OOPs concepts
 function (default, positional arguments)
