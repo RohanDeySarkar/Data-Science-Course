@@ -16,6 +16,9 @@ thrashing, Pull vs. Push, OAuth,	Microservices vs. Monoliths, Distributed Cachin
 blob splitters, Content-Addressable Storage
 CAP Theorem, event drivesn system, auths
 
+[JFYI]
+monorepo, webpack, parallel routing, multithreading
+
 *OOPs concepts
 function (default, positional arguments)
 class
